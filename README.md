@@ -13,3 +13,11 @@ https://www.bvp.com/atlas/roadmap-data-infrastructure
 3. Singer : https://www.singer.io/
 4. Airbyte : https://airbyte.io/
 5. Meltano : https://meltano.com/
+
+# Data transform
+1. dremio
+2. trino(presto)
+3. Starburst
+### Note: Presto(It is an open source distributed SQL query engine for running interactive analytic queries against data sources)
+
+
