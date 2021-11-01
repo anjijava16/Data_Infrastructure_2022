@@ -1,7 +1,8 @@
 # Data_Infrastructure_2022
 Data_Infrastructure_2022
 
-https://github.com/anjijava16/Data_Infrastructure_2022/blob/main/Data_Infrastructure.jpg
+![Data_Infrastructure](https://user-images.githubusercontent.com/5849522/139625927-c4830609-d38a-4a76-8be0-58b07a0138cd.jpg)
+
 
 
 # Data Loader(Ingest)
