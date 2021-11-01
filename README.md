@@ -2,8 +2,8 @@
 Data_Infrastructure_2022
 
 # Data Loader(Ingest)
-1. Fivetran
-2. Stitch
-3. Singer
-4. Airbyte
-5. Meltano
+1. Fivetran : https://fivetran.com/
+2. Stitch : https://www.stitchdata.com/
+3. Singer : https://www.singer.io/
+4. Airbyte : https://airbyte.io/
+5. Meltano : https://meltano.com/
